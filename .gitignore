@@ -1,6 +1,7 @@
 #my own restrictions
 *.csv
-*.visalog*
+visaFunc.log
+visaFunc.log.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
