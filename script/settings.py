@@ -2,7 +2,7 @@ from datetime import datetime as dt
 import os
 
 
-workDir = "/home/ich/Dokumente/CSV_Amazon_Visa"
+workDir = "/home/ich/Dokumente/Git/CSV_Amazon_Visa"
 
 # legt dateTime fest damit jede datei unique benamst werden kann
 now = dt.now()
